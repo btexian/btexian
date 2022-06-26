@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btexian
-- 👀 I’m interested in ccoding
-- 🌱 I’m currently learning c
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (insta-nishant7ujjain)
 
