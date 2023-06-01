@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @btexian
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c++,Data Science, Web Development
 - 📫 How to reach me (nishantujjain02@gmail.com)
 
 <!---
