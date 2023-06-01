@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (insta-nishant7ujjain)
+- 📫 How to reach me (nishantujjain02@gmail.com)
 
 <!---
 btexian/btexian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
