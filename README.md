@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @btexian
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++,Data Science, Web Development
+- 🌱 I’m currently learning c++,Data Analyst, Web Development
 - 📫 How to reach me (nishantujjain02@gmail.com)
 
 <!---
